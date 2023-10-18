@@ -1,0 +1,10 @@
+C:\knu\spz\2\Klient\Klient\bin\Debug\Klient.exe.config
+C:\knu\spz\2\Klient\Klient\bin\Debug\Klient.exe
+C:\knu\spz\2\Klient\Klient\bin\Debug\Klient.pdb
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.Form1.resources
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.Properties.Resources.resources
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.csproj.GenerateResource.cache
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.exe
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.pdb
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.csproj.AssemblyReference.cache
